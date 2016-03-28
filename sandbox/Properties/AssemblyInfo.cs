@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("sandbox")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("none")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("sandbox")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
